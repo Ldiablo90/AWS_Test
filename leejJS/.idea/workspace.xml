@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a63f289-daea-45ab-b415-c0c7dc3a4b5e" name="Default Changelist" comment="" />
+    <list default="true" id="6a63f289-daea-45ab-b415-c0c7dc3a4b5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leejJS/src/main/java/com/goodlee/leejJS/LeejJsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/leejJS/src/main/java/com/goodlee/leejJS/LeejJsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leejJS/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/leejJS/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,9 +40,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="814" y="275" key="FileChooserDialogImpl" timestamp="1594946282682">
+    <state x="624" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594956040160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="814" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594946282682" />
+    <state x="624" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594956040160" />
+    <state x="899" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594956036470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="899" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594956036470" />
+    <state x="814" y="275" key="FileChooserDialogImpl" timestamp="1594950809087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594950809087" />
+    <state x="671" y="186" key="SettingsEditor" timestamp="1594955819396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="186" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594955819396" />
+    <state x="675" y="142" key="new project wizard" timestamp="1594950827725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="142" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594950827725" />
+    <state x="833" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1594955887154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594955887154" />
   </component>
 </project>
